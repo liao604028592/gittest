@@ -27,6 +27,7 @@ public class Application extends WebMvcConfigurerAdapter {
 	public static void main(String[] args){
 		SpringApplication.run(Application.class, args);
 		logger.info("支付项目启动 ");
+		//ajdioahdoia
 	}
 
 	@Override
