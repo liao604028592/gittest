@@ -28,6 +28,7 @@ public class Application extends WebMvcConfigurerAdapter {
 		SpringApplication.run(Application.class, args);
 		logger.info("支付项目启动 ");
 		//这是一个注释
+		//zheyoushiyige zhushi
 
 	}
 
